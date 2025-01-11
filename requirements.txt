@@ -5,5 +5,6 @@ pyproj
 pycountry
 geopandas
 dash
+gunicorn
 dash-bootstrap-components
 plotly==5.14.1
