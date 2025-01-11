@@ -1,0 +1,9 @@
+pandas
+xlrd
+fiona
+pyproj
+pycountry
+geopandas
+dash
+dash-bootstrap-components
+plotly==5.14.1
