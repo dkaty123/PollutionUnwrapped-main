@@ -321,6 +321,7 @@ def merged_gdf_bar():
   return fig
 
 app = Dash(__name__, external_stylesheets=[dbc.themes.CERULEAN])
+server = app.server
 
 app.layout = html.Div([
 
