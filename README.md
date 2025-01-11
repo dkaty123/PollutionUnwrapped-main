@@ -1,7 +1,6 @@
-# Global-Plastic-Pollution
-A dash app that contains visualization of global plastic pollution
+# PollutionUnwrapped
 
-The website is hosted at: https://global-plastic-pollution-visualization.onrender.com
+The idea for this Dash app, which visualizes global plastic pollution, stems from my time as a Marine Plastic Ambassador at EarthEcho International. During this experience, I gained firsthand insights into the alarming scale of plastic pollution and its devastating impacts on marine ecosystems. I wanted to create a tool that not only raises awareness but also provides an interactive and data-driven way for users to understand the global distribution and severity of this crisis. This app is my attempt to merge environmental advocacy with technology to inspire action.
 
 Instructions on how to run the app on your local machine:
 
@@ -19,8 +18,5 @@ Instructions on how to run the app on your local machine:
 - dash
 - dash-bootstrap-components 
 
-2.5 If there are dependencies that are not installed in your local machine, on your terminal type the following: 'pip install (Name of dependency)' 
+3. python app.py
 
-3. After installing all the required dependency, run the python script by typing the following comand in the terminal 'python app.py'. If the program did not run or occured into in error, either there is a dependency that is installed or you are not using the correct version of python.
-
-4. As the program is running, copy the link: 'http://127.0.0.1:8050/' on your browser, and you will be able to see the app's layout.
